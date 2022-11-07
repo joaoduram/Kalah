@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.target=Jogo
+comment0.text=\r\n\ Escreva\ a\ descri\u00E7\u00E3o\ da\ classe\ Teste\ aqui.\r\n\ \r\n\ @author\ (seu\ nome)\ \r\n\ @version\ (n\u00FAmero\ de\ vers\u00E3o\ ou\ data)\r\n
+comment1.params=
+comment1.target=void\ jogo()
+comment2.params=num
+comment2.target=boolean\ jogoFinalizado(int)
+comment3.params=jogador\ tab
+comment3.target=void\ jogada(Jogador,\ Tabuleiro)
+comment4.params=jogador\ ultimaCava\ tabuleiro
+comment4.target=void\ captura(Jogador,\ int,\ java.util.Map)
+comment5.params=jogador\ tab
+comment5.target=boolean\ confereSeHouveVencedor(Jogador,\ Tabuleiro)
+comment6.params=jogador
+comment6.target=void\ finalizarJogo(Jogador)
+comment7.params=jogador\ nomeCava\ tabuleiro
+comment7.target=int\ moverPecas(Jogador,\ int,\ java.util.Map)
+numComments=8

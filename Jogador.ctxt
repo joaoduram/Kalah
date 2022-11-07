@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=Jogador
+comment0.text=\r\n\ Escreva\ a\ descri\u00E7\u00E3o\ da\ classe\ Jogador\ aqui.\r\n\ \r\n\ @author\ (seu\ nome)\ \r\n\ @version\ (n\u00FAmero\ de\ vers\u00E3o\ ou\ data)\r\n
+comment1.params=nome\ repositorio
+comment1.target=void\ criarJogador(java.lang.String,\ int)
+comment2.params=
+comment2.target=void\ setVez()
+comment3.params=
+comment3.target=boolean\ getVez()
+comment4.params=
+comment4.target=java.lang.String\ getNome()
+comment5.params=
+comment5.target=int\ getRepositorio()
+numComments=6

@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=Tabuleiro
+comment0.text=\r\n\ Escreva\ a\ descri\u00E7\u00E3o\ da\ classe\ Tabuleiro\ aqui.\r\n\ \r\n\ @author\ (seu\ nome)\ \r\n\ @version\ (n\u00FAmero\ de\ vers\u00E3o\ ou\ data)\r\n
+comment1.params=
+comment1.target=void\ criarTabuleiro()
+comment2.params=
+comment2.target=void\ mostrarTabuleiro()
+comment3.params=
+comment3.target=java.util.Map\ getCavas()
+comment4.params=
+comment4.target=int[]\ getTab1()
+comment5.params=
+comment5.target=int[]\ getTab2()
+numComments=6
